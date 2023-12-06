@@ -5,7 +5,7 @@
 <br />
 
 - 🔭你好呀！💡<br />
-<div margin="100px">
+<div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinternetQilin&show_icons=true&theme=radical)
 </div>
 <picture>
